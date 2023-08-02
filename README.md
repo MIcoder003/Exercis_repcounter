@@ -26,5 +26,5 @@ Future direction - <br>
 Done by:<br>
 <br>
 1. Madhumitha R , git: MIcooder003<br>
-2. Prathyuma V , git: prathyuma-08<br>
+2. Prathyuma V , git: [prathyuma-08](https://github.com/prathyuma-08)<br>
 
